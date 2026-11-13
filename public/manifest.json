@@ -1,0 +1,20 @@
+{
+  "short_name": "Roots & Beans",
+  "name": "Roots & Beans - Café y té de comercio justo",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/logo.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2e7d32",
+  "background_color": "#fff8e1"
+}
